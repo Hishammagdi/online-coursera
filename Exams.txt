@@ -1,0 +1,3 @@
+what is your name?&12&15&20&25&20
+where are you going?&cairo&alex&ppp&lon&lon
+you have borther?&2&0&1&4&0
